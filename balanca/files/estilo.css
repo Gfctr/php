@@ -1,0 +1,25 @@
+#css{
+	margin-left: 0px;
+	width: 900px;
+}
+table{
+	width: 900px;
+	height: 100px;
+}
+body{
+	font: 14px FreeMono, monospace;
+	color: white;
+}
+.index{
+	background: url(bm.png);
+}
+.titles{
+	color: black;
+	text-decoration: none;
+	background: white;
+	font-weight: bolder;
+	border-radius: 0px;
+	padding: 5px;
+	text-align: center;
+	width: 450px;
+}
