@@ -1,12 +1,11 @@
 <?php
     //
     // clock.php3 -- shows the current time as a PNG-image
-    // Copyright (C) 2000, Frank Buß, fb@frank-buss.de
+    // Copyright (C) 2000, Frank Buï¿½, fb@frank-buss.de
     //
     // This software is provided 'as-is', without any express or implied
     // warranty.  In no event will the author be held liable for any damages
     // arising from the use of this software.
-    //
     // Permission is granted to anyone to use this software for any purpose,
     // including commercial applications, and to alter it and redistribute it
     // freely.
